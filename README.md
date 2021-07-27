@@ -43,7 +43,7 @@ $ cd IdeiaPostIt
 
 ### **Dependencies**
 
-Inside the 'IdeiaPostIt' folder you need to install all dependencies for all projects Backend and Frontend
+Inside the 'postits' folder you need to install all dependencies for all projects Backend and Frontend
 
 ```
 $ npm install
