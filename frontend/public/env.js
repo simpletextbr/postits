@@ -77,7 +77,7 @@ window.env = {
   "NUMBER_OF_PROCESSORS": "12",
   "OneDrive": "C:\\Users\\Wesley\\OneDrive",
   "OS": "Windows_NT",
-  "Path": "C:\\Users\\Wesley\\AppData\\Local\\Temp\\yarn--1627347564303-0.7056348447618881;C:\\Users\\Wesley\\www\\testes\\IdeiaPostIt\\frontend\\node_modules\\.bin;C:\\Users\\Wesley\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Program Files\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Program Files\\PowerShell\\7-preview\\preview;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Users\\Wesley\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Wesley\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Wesley\\AppData\\Roaming\\npm;C:\\Users\\Wesley\\AppData\\Local\\Yarn\\bin",
+  "Path": "C:\\Users\\Wesley\\AppData\\Local\\Temp\\yarn--1627351658899-0.268494209599762;C:\\Users\\Wesley\\www\\testes\\IdeiaPostIt\\frontend\\node_modules\\.bin;C:\\Users\\Wesley\\AppData\\Local\\Yarn\\Data\\link\\node_modules\\.bin;C:\\Program Files\\libexec\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files\\lib\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\node-gyp-bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Program Files\\PowerShell\\7-preview\\preview;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Users\\Wesley\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Wesley\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\Wesley\\AppData\\Roaming\\npm;C:\\Users\\Wesley\\AppData\\Local\\Yarn\\bin",
   "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC;.CPL",
   "POSH_GIT_ENABLED": "False",
   "POWERLINE_COMMAND": "oh-my-posh",
@@ -104,7 +104,7 @@ window.env = {
   "windir": "C:\\Windows",
   "WSLENV": "WT_SESSION::WT_PROFILE_ID",
   "WT_PROFILE_ID": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-  "WT_SESSION": "0944b46a-9793-4a2b-8355-dc0f692301da",
+  "WT_SESSION": "2f9f97ed-60c1-4c64-8739-e87289ffb996",
   "YARN_WRAP_OUTPUT": "false",
   "ZES_ENABLE_SYSMAN": "1"
 };

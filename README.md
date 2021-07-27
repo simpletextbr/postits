@@ -1,6 +1,6 @@
 # Idea Post It
 
-![Preview-Screens](https://github.com/simpletextbr/postits/blob/master/Preview-Screens/Screens.gif?raw=true)
+![Preview-Screens](https://github.com/simpletextbr/postits/blob/master/Preview-Screens/Screens.png?raw=true)
 
 ## About this Project
 
